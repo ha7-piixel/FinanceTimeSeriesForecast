@@ -54,4 +54,4 @@ pip install -r Requirements.txt
 
 #### 4. Project Dashboard
 
-`https://ha7-piixel.github.io/FinanceTimeSeriesForecast/`
+[`https://ha7-piixel.github.io/FinanceTimeSeriesForecast/`](https://ha7-piixel.github.io/FinanceTimeSeriesForecast/)
