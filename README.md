@@ -13,22 +13,7 @@ This project transforms financial time series (TCS Stock Data) into non-stationa
 
 ## 🛠️ Project Structure & Reproduction Commands
 
-### 1. Repository Setup & Cleanup
-Run these commands to prepare your environment and remove unnecessary clutter:
-
-```bash
-# Clone the repository
-git clone [https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git](https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git)
-cd FinanceTimeSeriesForecast-1
-
-# Purge unnecessary folders and LaTeX 'shit'
-rm -rf notebooks
-rm -f results/*.aux results/*.log results/*.out results/*.fdb_latexmk
-
-# Install dependencies
-pip install -r Requirements.txt
-
-## 🛠️ Project Structure
+### 1.🛠️ Project Structure
 ```text
 .
 ├── LICENSE
@@ -50,3 +35,23 @@ pip install -r Requirements.txt
     ├── model.py                  # CNN Architecture (PyTorch)
     ├── signal_processor.py       # STFT and FFT implementation
     └── train.py                  # Model training and evaluation
+```
+### 2. Repository Setup & Cleanup
+Run these commands to prepare your environment and remove unnecessary clutter:
+
+```bash
+# Clone the repository
+git clone [https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git](https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git)
+cd FinanceTimeSeriesForecast-1
+
+# Purge unnecessary folders and LaTeX 'shit'
+rm -rf notebooks
+rm -f results/*.aux results/*.log results/*.out results/*.fdb_latexmk
+
+# Install dependencies
+pip install -r Requirements.txt
+```
+
+#### 4. Project Dashboard
+
+`https://ha7-piixel.github.io/FinanceTimeSeriesForecast/`
