@@ -41,7 +41,7 @@ Run these commands to prepare your environment and remove unnecessary clutter:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git](https://github.com/Caissaiamkaiser/FinanceTimeSeriesForecast-1.git)
+git clone [https://github.com/ha7-piixel/FinanceTimeSeriesForecast-1.git](https://github.com/ha7-piixel/FinanceTimeSeriesForecast-1.git)
 cd FinanceTimeSeriesForecast-1
 
 # Purge unnecessary folders and LaTeX 'shit'
